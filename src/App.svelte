@@ -1,5 +1,5 @@
 <script>
-  import data from "./lib/Counter.svelte?sveld&raw";
+  import data from "./lib/Counter.svelte?raw&sveld";
 
   console.log(data)
 </script>
