@@ -1,5 +1,7 @@
 <script>
   import data from "./lib/Counter.svelte?sveld&raw";
+
+  console.log(data)
 </script>
 
 <main>
